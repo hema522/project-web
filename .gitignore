@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Local environment and generated files
+.env.*
+!.env.example
+*.log
+.DS_Store
